@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project resources
+resources
+quantum_dataset.csv
+RBM.mpack
+FF.mpack
+CNN.mpack
